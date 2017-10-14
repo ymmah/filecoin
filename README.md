@@ -1,3 +1,3 @@
 FooCoin (FOO)
 
-Blah, blah, blah.
+“我們信任的密碼學”。
